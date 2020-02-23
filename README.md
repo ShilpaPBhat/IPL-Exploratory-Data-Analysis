@@ -6,8 +6,9 @@ Indian Premier League is a famous cricket league played in India every year duri
 ## Table of contents
 * [About](#about)
 * [Data Description](#data-description)
-* [What is in the App!](#what-is-in-the-app!)
-* [Snippets from the App](#snippents-from-the-app)
+* [What is in the App](#what-is-in-the-app)
+* [Snippets from the App](#snippets-from-the-app)
+* [Next Steps](#next-steps)
 
 ## About
 
@@ -20,7 +21,7 @@ The two [datasets]() are:
   1. Deliveries - ball by ball data for every match played
   2. Matches - data for all matches played
 
-## What is in the App ?
+## What is in the App
 The following have been covered in the app.
 * Overview
 * Top Performance by season (Season-wise batting and bowling stats)
@@ -28,6 +29,29 @@ The following have been covered in the app.
 * Player performance by venue and against opponent
     
 ## Snippets from the App
+
+About
+
+![Screenshot](/img/Screen%20Shot%202020-02-22%20at%208.41.27%20PM.png)
+
+Overview
+
+![Screenshot](/img/Screen%20Shot%202020-02-22%20at%208.41.41%20PM.png)
+
+Top Performance by season
+
+![Screenshot](/img/Screen%20Shot%202020-02-22%20at%208.41.52%20PM.png)
+
+Player Profile
+
+![Screenshot](/img/Screen%20Shot%202020-02-22%20at%208.42.18%20PM.png)
+
+Player performance by venue and against opponent
+
+![Screenshot](/img/Screen%20Shot%202020-02-22%20at%208.42.30%20PM.png)
+
+## Next Steps
+Further, I'm looking forward to enhance the app to predict season winners and also player score which would be a key input for the player auction
 
 
 
