@@ -21,7 +21,7 @@ ui <- dashboardPage(
       menuItem('Top Performances - By Season', tabName = 'season', icon = icon('chart-bar')),
       menuItem('Player Profile', tabName = 'player', icon = icon('id-card')),
       menuItem('Player Performance', tabName = 'performance', icon = icon('tachometer')),
-      menuItem("Source code", icon = icon("code"), href = "https://github.com/danmalter/Movielense")
+      menuItem("Source code", icon = icon("code"), href = "https://github.com/ShilpaPBhat/IPL-Exploratory-Data-Analysis/blob/master/data_code/app.R")
       )
   ),
   dashboardBody(
