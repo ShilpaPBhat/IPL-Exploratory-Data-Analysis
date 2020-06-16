@@ -1,6 +1,5 @@
 # IPL-Exploratory-Data-Analysis
 ----
-
 Indian Premier League is a famous cricket league played in India every year during the period between March and May. It is played in a professional T20 format of the game. This league is played by 8 teams representing 8 different cities across India. This league started in 2008 and it has been a big hit and it is the most attended league in the World.
 
 Have a look at the App [here](https://shilpabhat.shinyapps.io/ipldata/)
